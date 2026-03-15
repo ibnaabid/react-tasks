@@ -1,0 +1,29 @@
+.container{
+    border: 2px solid greenyellow;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 30px;
+    
+}
+
+.country{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+.head{
+    font-weight: bold;
+    font-size:x-large;
+}
+
+.btn{
+    background-color:darkcyan;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.btn-not{
+    background-color: #454545;
+    color: crimson;
+    padding: 20px;
+}
